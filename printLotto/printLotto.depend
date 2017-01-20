@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1484880942 source:c:\users\56113039-4\desktop\c++\printlotto\untitled2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1484882443 source:c:\users\56113039-4\desktop\c++\printlotto\printlotto.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
